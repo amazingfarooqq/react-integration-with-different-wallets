@@ -1,0 +1,19 @@
+.wallet_btn {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.842);
+    color: white;
+    border-radius: 14px;
+}
+.wallet_btn:hover {
+    transform: scale(1.02);
+}
+
+.wallet_btn:active {
+    transform: scale(1)
+}
+
+.wallet_img {
+    width: 50px;
+}
